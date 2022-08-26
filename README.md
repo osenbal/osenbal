@@ -52,10 +52,11 @@
 
 <p align="left">
   <img align="left" style="display: block; margin: 0 auto; background-color: #0d1117;" src="https://github-readme-stats.vercel.app/api/top-langs?username=osenbal&show_icons=true&locale=en&layout=compact" alt="osenbal" />
+  <br/>
 </p>
 
 &nbsp;
 &nbsp;
 
-## /talk to me
+## talk to me
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iqbal_mln17)
