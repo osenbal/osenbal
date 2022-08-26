@@ -4,11 +4,8 @@
   <img alt="coding" align="center" style="display: block; margin: 0 auto;" width="900" height="300"  src="https://images.ctfassets.net/em6l9zw4tzag/s2J4qM7DvYAzmqCUnC5QQ/6e5762c0794a046129e1198e5c0a8d8d/FaveTools.gif" />
 </p>
 
-
 &nbsp;
 &nbsp;
-
-&nbsp;&nbsp;
 &nbsp;
 
 <h3 align="left">Languages and Tools :</h3>
@@ -57,6 +54,8 @@
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 ## talk to me
+<p></p>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iqbal_mln17)
