@@ -1,33 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iqbal</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img alt="coding" align="left" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
+<img alt="coding" align="left" width="400" src="https://camo.githubusercontent.com/e11909e37db2a69f5af2baca9c479b0082ebece4c2870d485158fa553c5ab5bf/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f38633132663532636365393237393138373732383961383762346330356636392f74756d626c725f70356a62673439706e703171636971716e6f325f72315f3634302e676966" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osenbal&label=Profile%20views&color=0e75b6&style=flat" alt="osenbal" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osenbal" alt="osenbal" /></a> </p> -->
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **React Js**
-
-- 👯 I’m looking to collaborate on [Acourse](https://github.com/Ayocode5/acourse_fe)
-
-- My Portfolio [iqballl.netlify.app](iqballl.netlify.app)
-
-- 📝 I regularly write articles on [osenbal.my.id](osenbal.my.id)
-
-- 💬 Ask me about **Javascript, html, css**
-
-- 📫 How to reach me **enbal.blogs.215@gmail.com**
-
-- ⚡ Fun fact **I like programming and networking**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iqbal-maulana1703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqbal-maulana1703" height="30" width="40" /></a>
-<a href="https://codesandbox.com/osenbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="osenbal" height="30" width="40" /></a>
-<a href="https://instagram.com/iqbal_mln17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbal_mln17" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
