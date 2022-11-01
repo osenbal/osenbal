@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iqbal</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <p align="center">
-  <img alt="coding" align="center" style="display: block; margin: 0 auto;" width="240px height="100px" src="https://i.pinimg.com/originals/c2/38/62/c23862e94a22bea510ac8581a210ed4e.gif" />
+  <img alt="coding" align="center" style="display: block; margin: 0 auto;" width="240px" height="100px" src="https://i.pinimg.com/originals/c2/38/62/c23862e94a22bea510ac8581a210ed4e.gif" />
 </p>
 
 &nbsp;
